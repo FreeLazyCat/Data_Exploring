@@ -1,0 +1,6 @@
+                max     min         mid     average
+longitude : 11.199326  8.146126  9.887197  9.731836
+latitude : 57.750511  56.582486  57.042498  57.083758
+height : 134.441947  -8.608184  17.574712  22.185405
+ID number : 57329
+average 7.585585 data per ID
